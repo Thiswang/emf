@@ -1,4 +1,4 @@
-package study.project.pricecompare.config.mvc.intercepter;
+package study.project.emf.config.mvc.intercepter;
 
 
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;

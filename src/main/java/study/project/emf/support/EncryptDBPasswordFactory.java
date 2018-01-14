@@ -1,4 +1,4 @@
-package study.project.pricecompare.support;
+package study.project.emf.support;
 
 import java.math.BigInteger;
 import java.security.InvalidKeyException;

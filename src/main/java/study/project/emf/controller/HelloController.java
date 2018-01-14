@@ -1,4 +1,4 @@
-package study.project.pricecompare.controller;
+package study.project.emf.controller;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.stereotype.Controller;

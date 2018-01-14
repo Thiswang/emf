@@ -1,7 +1,7 @@
-package study.project.pricecompare.config.mvc.intercepter;
+package study.project.emf.config.mvc.intercepter;
 
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
-import study.project.pricecompare.config.mvc.WebSecurityConfig;
+import study.project.emf.config.mvc.WebSecurityConfig;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

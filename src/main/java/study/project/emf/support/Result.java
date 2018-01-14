@@ -1,4 +1,4 @@
-package study.project.pricecompare.support;
+package study.project.emf.support;
 
 import com.alibaba.fastjson.JSON;
 import lombok.Data;

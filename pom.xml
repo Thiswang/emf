@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.wz.project</groupId>
-    <artifactId>price-compare</artifactId>
+    <artifactId>emf</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -80,9 +80,15 @@
             <version>6.0.4</version>
         </dependency>
         <dependency>
-            　　<groupId>com.alibaba</groupId>
-            　　<artifactId>druid</artifactId>
-            　　<version>1.0.31</version>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid</artifactId>
+            <version>1.0.31</version>
+        </dependency>
+        <!--通用mapper -->
+        <dependency>
+            <groupId>tk.mybatis</groupId>
+            <artifactId>mapper</artifactId>
+            <version>3.3.0</version>
         </dependency>
     </dependencies>
 

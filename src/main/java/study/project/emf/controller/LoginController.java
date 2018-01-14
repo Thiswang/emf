@@ -1,18 +1,15 @@
 /**
  * Copyright (C), 2011-2018, 微贷网.
  */
-package study.project.pricecompare.controller;
+package study.project.emf.controller;
 
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.view.RedirectView;
-import study.project.pricecompare.config.mvc.WebSecurityConfig;
-import study.project.pricecompare.entity.User;
-import study.project.pricecompare.support.Result;
+import study.project.emf.config.mvc.WebSecurityConfig;
+import study.project.emf.entity.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.ResponseBody;
 
 import javax.servlet.http.HttpServletRequest;
 

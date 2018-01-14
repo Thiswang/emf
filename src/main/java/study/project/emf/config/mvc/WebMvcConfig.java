@@ -1,10 +1,10 @@
-package study.project.pricecompare.config.mvc;
+package study.project.emf.config.mvc;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
-import study.project.pricecompare.config.mvc.intercepter.BasePathInterceptor;
+import study.project.emf.config.mvc.intercepter.BasePathInterceptor;
 
 @Configuration
 public class WebMvcConfig extends WebMvcConfigurerAdapter {

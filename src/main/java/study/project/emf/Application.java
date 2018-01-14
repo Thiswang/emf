@@ -1,4 +1,4 @@
-package study.project.pricecompare;
+package study.project.emf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

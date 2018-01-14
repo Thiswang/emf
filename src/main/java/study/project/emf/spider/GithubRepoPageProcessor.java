@@ -1,7 +1,7 @@
 /**
  * Copyright (C), 2011-2018, 微贷网.
  */
-package study.project.pricecompare.spider;
+package study.project.emf.spider;
 
 
 import us.codecraft.webmagic.Page;

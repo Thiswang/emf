@@ -1,7 +1,7 @@
 /**
  * Copyright (C), 2011-2018, 微贷网.
  */
-package study.project.pricecompare.entity;
+package study.project.emf.entity.zhihu;
 
 import lombok.Data;
 

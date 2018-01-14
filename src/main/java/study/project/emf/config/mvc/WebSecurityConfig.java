@@ -1,7 +1,7 @@
 /**
  * Copyright (C), 2011-2018, 微贷网.
  */
-package study.project.pricecompare.config.mvc;
+package study.project.emf.config.mvc;
 
 /**
  * @author wangzhe 2018/1/13.
@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistration;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
-import study.project.pricecompare.config.mvc.intercepter.SecurityInterceptor;
+import study.project.emf.config.mvc.intercepter.SecurityInterceptor;
 
 
 @Configuration
