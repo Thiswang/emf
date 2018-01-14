@@ -90,6 +90,13 @@
             <artifactId>mapper</artifactId>
             <version>3.3.0</version>
         </dependency>
+
+        <!-- spider 界面渲染 -->
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>3.8.1</version>
+        </dependency>
     </dependencies>
 
     <build>
